@@ -4,6 +4,6 @@
     "website_url": "https://github.com/M-R-Dev-Projects/EasyStacks",
     "description": "Increases Stack Size for Items",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        "KaBooMa-S1API-1.3.1"
     ]
 }
