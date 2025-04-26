@@ -1,0 +1,9 @@
+{
+    "name": "EasyStacks",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/M-R-Dev-Projects/EasyStacks",
+    "description": "Increases Stack Size for Items",
+    "dependencies": [
+        "MythicManiac-TestMod-1.1.0"
+    ]
+}
